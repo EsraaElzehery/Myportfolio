@@ -35,13 +35,15 @@ export default function Home() {
  className=" md:text-lg leading-7"> I'm a passionate web developer with expertise in React.js,
   and modern web technologies. I love creating beautiful and functional website that solve real world problems.</motion.p>
 
-<motion.div
+<motion.div className='flex md:gap-5 gap-4'
 initial={{opacity:0, x:-50}}
 whileInView={{opacity:1, x:0}}
 transition={{duration:1.1 , delay:0.2}}
 >
   <a href='#contact'><button className=' md:text-lg text-gray-700 font-semibold bg-pink-300 py-2 px-4
    rounded-full hover:bg-pink-100'>Contact Me</button></a>
+  <a href='https://drive.google.com/file/d/1Y70z4MO0l7LyCJ17-cS5rBvKy-vrLNZG/view?usp=drivesdk' target='_blank'><button className=' md:text-lg text-gray-700 font-semibold bg-pink-300 py-2 px-4
+   rounded-full hover:bg-pink-100'>Download CV</button></a>
 </motion.div>
 
 </div>
