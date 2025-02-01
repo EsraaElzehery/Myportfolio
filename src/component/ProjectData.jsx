@@ -40,13 +40,14 @@ live:'https://esraaelzehery.github.io/Landing-page-with-js/'
 
 },
     {
-// id: 4,
-// name: "Cake Design",
-// Description: "Using js, html && css, it's responsive design",
-// image: Cake,
-// category: 'javascript'
-
-// },
+id: 4,
+name: "Cake Design",
+Description: "Using js, html && css, it's responsive design",
+image: Cake,
+category: 'javascript',
+github: 'https://github.com/EsraaElzehery/Cake-Design.git',
+live: 'https://esraaelzehery.github.io/Cake-Design/',
+},
     {
 id: 5,
 name: "Weather App",
