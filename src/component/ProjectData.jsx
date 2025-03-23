@@ -6,11 +6,21 @@ import iphone from '../assets/iphone.png'
 import Cake from '../assets/Cake.png'
 import chair from '../assets/chair.jpg'
 import ww from '../assets/ww.jpg'
-    
+    import shop from "../assets/shop.png"
 export const ProjectData =[
 
     {
         id: 1,
+        name: "E-commerce",
+        Description: "Using React,Redux toolkit and tailwindCss , responsive design",
+        image: shop,
+        category: 'react',
+        github: '',
+        live:'https://shimmering-raindrop-d16185.netlify.app/',
+        
+        },
+    {
+        id: 2,
         name: "Coffe Shop",
         Description: "Using React with framer-motion and tailwindcss, responsive design",
         image: coffe,
@@ -20,7 +30,7 @@ export const ProjectData =[
         
         },
         {
-        id: 2,
+        id: 3,
         name: "Shoppping Cart",
         Description: "Using React with Context API and react-router, responsive design ",
         image: chair,
@@ -30,7 +40,7 @@ export const ProjectData =[
         },
 
         {
-        id: 3,
+        id: 4,
 name: "Iphone Design",
 Description: "Using js, html && css only to design it, responsive design",
 image: iphone,
@@ -40,7 +50,7 @@ live:'https://esraaelzehery.github.io/Landing-page-with-js/'
 
 },
     {
-id: 4,
+id: 5,
 name: "Cake Design",
 Description: "Using js, html && css, it's responsive design",
 image: Cake,
@@ -49,7 +59,7 @@ github: 'https://github.com/EsraaElzehery/Cake-Design.git',
 live: 'https://esraaelzehery.github.io/Cake-Design/',
 },
     {
-id: 5,
+id: 6,
 name: "Weather App",
 Description: "Using js, html && css",
 
@@ -61,7 +71,7 @@ live:'https://esraaelzehery.github.io/Weather-App/'
 },
 
     {
-id: 6,
+id: 7,
 name: "Pizza Menu",
 Description: " using html && css",
 image: Fiid ,
@@ -71,7 +81,7 @@ live: 'https://esraaelzehery.github.io/pizza-restaurant/'
 
 },
     {
-id: 7,
+id: 8,
 name: "Bootstrap Design",
 Description: "Using bootstrap, responsive design",
 image: Bootstrap,
@@ -81,7 +91,7 @@ live:'https://esraaelzehery.github.io/bootstrap-design/'
 
 },
     {
-id: 8,
+id: 9,
 name: "Landing Page",
 Description: "using html && css only, responsive design",
 image: chemical,
