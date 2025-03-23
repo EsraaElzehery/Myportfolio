@@ -43,7 +43,7 @@ className="space-y-4 ">
 <p className="leading-7 "> I'm a passionate Front-End Developer specializing in building interactive, user-friendly web applications using modern technologies like React.js. I have experience in creating responsive and visually appealing designs that provide an excellent user experience. My goal is to continuously improve my skills, tackle challenging projects, and contribute to meaningful solutions.
 In addition to React, I am proficient in HTML, CSS, JavaScript, and have experience working with tools like Redux, Bootstrap, and TailwindCSS. I enjoy turning complex ideas into seamless digital experiences and collaborating with teams to achieve great results.
 Currently, I am focusing on enhancing my skills in full-stack development, learning Node.js.
-. </p>
+ </p>
    <div>
     <h2 className="md:text-3xl text-xl" >My Skills:</h2>
    </div>
